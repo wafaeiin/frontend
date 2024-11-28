@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 
 AWS_ACCESS_KEY = "AKIA4MTWMPG2X5LYP2WW"
-#AWS_SECRET_KEY = "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"
+AWS_SECRET_KEY = "Dcrskmi04kxNSnNVkn8uke0vtTUsme9jNo8bRxrS"
 S3_BUCKET = "my-documents-bucket-esi"  # bucket name
 S3_REGION = "eu-north-1"       # bucket's region
 
